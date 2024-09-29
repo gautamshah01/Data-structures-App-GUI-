@@ -115,7 +115,7 @@ class MainGUI:
         main_frame = ttk.Frame(self.root, style="TFrame")
         main_frame.pack(side="right", fill="both", expand=True)
 
-        title_label = ttk.Label(main_frame, text="Welcome to Data Structures App", font=self.title_font, foreground=self.text_color)
+        title_label = ttk.Label(main_frame, text="Welcome to Data Structures App by Gautam Shah S108", font=self.title_font, foreground=self.text_color)
         title_label.pack(pady=20)
 
         info_text = "Select a data structure from the sidebar to begin."

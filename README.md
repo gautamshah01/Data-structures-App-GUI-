@@ -134,7 +134,7 @@ Hash Table
 •	Use Cases: Database indexing, efficient data retrieval.
 
 
-<h1>Dependencies</h1>h1>
+<h1>Dependencies</h1>
 
 
 •	tkinter: Essential for creating the GUI components.
@@ -170,7 +170,7 @@ The MainGUI class is central to the application, managing the main window and na
 To use the Data Structures App:
 
 
-1.	Run the Application: Execute the Python script to launch the app in full-screen mode.
+1.	Run the Application: Execute the Python file(data-project.py) to launch the app in full-screen mode.
 
 
 2.	Navigate: Click "Start" to access the main interface and select data structures from the sidebar.

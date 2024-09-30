@@ -1,3 +1,5 @@
+  <h1 align="center">Data Structures GUI APP</h1>
+
 
  <h1>Introduction</h1>
 
@@ -20,7 +22,7 @@ The Data Structures App is an interactive GUI application built with Python's tk
 
 <h1>Data Structure Features</h1>
 
-Stack
+<h2>Stack</h2>
 
 •	LIFO Principle: Operates on the Last In, First Out principle.
 
@@ -29,7 +31,7 @@ Stack
 •	Use Cases: Function call management, expression evaluation.
 
 
-Queue
+<h2>Queue</h2>
 
 
 •	FIFO Principle: Follows the First In, First Out principle.
@@ -39,7 +41,7 @@ Queue
 •	Use Cases: Print job scheduling, task management.
 
 
-Priority Queue
+<h2>Priority Queue</h2>
 
 •	Priority-Based: Elements are dequeued based on assigned priorities.
 
@@ -50,7 +52,7 @@ Priority Queue
 •	Use Cases: Job scheduling in operating systems, Dijkstra’s algorithm for pathfinding.
 
 
-Linked List
+<h2>Linked List</h2>
 
 
 •	Dynamic Structure: Composed of nodes, each pointing to the next.
@@ -62,7 +64,7 @@ Linked List
 •	Use Cases: Efficient memory usage, implementation of stacks and queues.
 
 
-Doubly Linked List
+<h2>Doubly Linked List</h2>
 
 
 •	Two References: Each node has pointers to both next and previous nodes.
@@ -74,7 +76,7 @@ Doubly Linked List
 •	Use Cases: Navigation systems, complex data structure implementations.
 
 
-Binary Tree
+<h2>Binary Tree</h2>
 
 
 •	Hierarchical Structure: Each node can have up to two children.
@@ -86,7 +88,7 @@ Binary Tree
 •	Use Cases: Organizing hierarchical data, binary search trees.
 
 
-Huffman Coding
+<h2>Huffman Coding</h2>
 
 
 •	Data Compression: Uses variable-length codes based on character frequencies.
@@ -98,7 +100,7 @@ Huffman Coding
 •	Use Cases: File compression in formats like ZIP and JPEG.
 
 
-Graph
+<h2>Graph</h2>
 
 
 •	Node Connections: Composed of vertices and edges, can be directed or undirected.
@@ -110,7 +112,7 @@ Graph
 •	Use Cases: Social networks, route optimization.
 
 
-Travelling Salesman Problem (TSP)
+<h2>Travelling Salesman Problem (TSP)</h2>
 
 
 •	Optimization Problem: Seeks the shortest route visiting all given cities.
@@ -122,7 +124,7 @@ Travelling Salesman Problem (TSP)
 •	Use Cases: Logistics, circuit design.
 
 
-Hash Table
+<h2>Hash Table</h2>
 
 
 •	Key-Value Storage: Allows fast data retrieval based on keys.
